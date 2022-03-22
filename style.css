@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+}
+h1{
+    font-size: 60px;
+    color: orange;
+    padding: 10px;
+}
+h2{
+    font-size: 80px;
+    color: rgb(100, 7, 7);
+    font-weight: bolder;
+    padding: 10px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.get-button{
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 15px 30px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+.middle{
+    text-align: center;
+    padding-top: 150px;
+}
